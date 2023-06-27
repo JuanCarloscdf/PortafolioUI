@@ -1,0 +1,26 @@
+.listprojects_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.list_table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    caption-side: bottom;
+    max-width: 800px;
+}
+.list_table th{
+    background-color: rgb(196, 141, 40);
+    width: 350px;
+    color: black;
+    padding: 0 15px;
+}
+.list_table td{
+    text-align: center;
+    padding: 5px
+}
+
+

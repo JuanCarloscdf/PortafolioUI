@@ -1,0 +1,23 @@
+[
+    {
+      "_id": "64443dc3091e900bf4b7538c",
+      "userId": "643f3cb279236a7340eb58a5",
+      "cards": [
+        {
+          "title": "Must create projects ",
+          "description": "Let's create a new project",
+          "img": "https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947_1280.jpg",
+          "_id": "64443dc3091e900bf4b7538d"
+        },
+        {
+          "title": "2da carateristica",
+          "description": "Lorem front y back para una tienda online, realziada con react, express, redisfront y back para una tienda online, realziada con react, express, redisfront y back para una tienda online, realziada con react, express, redisfront y back para una tienda online, realziada con react, express, redis",
+          "img": "https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947_1280.jpg",
+          "_id": "64443dc3091e900bf4b7538e"
+        }
+      ],
+      "createdAt": "2023-04-22T20:04:19.297Z",
+      "updatedAt": "2023-04-22T20:04:19.297Z",
+      "__v": 0
+    }
+  ]

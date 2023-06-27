@@ -1,0 +1,17 @@
+.main_container{
+ 
+    margin: 0;
+    padding: 10px;
+}
+.pro_container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(350px,1fr));
+    gap: 20px;
+
+}
+.slide_pro{
+    border: 1px solid rgb(189, 99, 16);
+    border-radius: 15px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.479);
+}
